@@ -1,0 +1,74 @@
+.face{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 50px;
+    background-color:rgb(233, 229, 13);
+    position: relative;
+}
+.eye1{height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 26px;
+    background-color:white;
+    position: absolute;
+}
+.eye2{ height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 26px;
+    background-color:white;
+    position: absolute;
+}
+.mouth{height: 18px;
+    width: 40px;
+    border-radius: 25px;
+    background-color: black;
+    margin-top: 72px;
+    margin-left: 28px;
+    position: absolute;
+
+}
+.eyee1{height: 15px;
+    width: 10px;
+    border-radius: 20px;
+    margin-left: 7px;
+    margin-top: 8px;
+    background-color:rgb(15, 15, 15);
+    position: absolute;
+}
+
+.eyee2{height: 15px;
+        width: 10px;
+        border-radius: 20px;
+        margin-left: 7px;
+        margin-top: 8px;
+        background-color:rgb(7, 7, 7);
+        position: absolute;
+    }
+.teeth1{
+        height: 6px;
+        width: 6px;
+        margin-top: 84px;
+        margin-left: 45px;
+        background-color: rgb(252, 251, 251);
+        position: absolute;
+    }
+    .teeth2{
+        height: 6px;
+        width: 6px;
+        margin-top: 72px;
+        margin-left: 42px;
+        background-color: rgb(252, 248, 248);
+        position: absolute;
+    }
+    .teeth3{
+        height: 6px;
+        width: 6px;
+        margin-top: 72px;
+        margin-left: 49px;
+        background-color: rgb(252, 251, 251);
+        position: absolute;
+    }
